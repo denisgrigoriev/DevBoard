@@ -1,4 +1,4 @@
-#Devboard project
+# Devboard project
 
 in this project i would be using kicad to create the schematics and pcb layout
 and JLCPCB to manufacture the actual pcb.
