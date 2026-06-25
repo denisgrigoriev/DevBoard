@@ -2,6 +2,8 @@
 
 in this project i would be using kicad to create the schematics and pcb layout
 and JLCPCB to manufacture the actual pcb.
+<img width="379" height="402" alt="image" src="https://github.com/user-attachments/assets/f72bdc87-dd54-40bb-9595-b125dbfc27d2" />
+
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/180c184c-8bb0-4590-b656-b80b0d6f43a3" />
 
 
